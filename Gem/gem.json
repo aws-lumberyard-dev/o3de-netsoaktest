@@ -1,10 +1,14 @@
 {
-    "GemFormatVersion": 4,
-    "Uuid": "5111dee500ed4812a7905093a73d3837",
-    "Name": "NetSoakTest",
-    "DisplayName": "NetSoakTest",
-    "Summary": "NetSoakTest Project Gem. Indefinitely tests AzNetworking transport via loopback.",
-    "Tags": ["Game"],
-    "IconPath": "preview.png",
-    "IsGameGem": true
+    "gem_name": "NetSoakTest",
+    "display_name": "Net Soak Test Gem",
+    "license": "https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT",
+    "origin": "https://github.com/aws-lumberyard-dev/o3de-netsoaktest",
+    "summary": "The implementation of net soak test.",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "NetSoakTest"
+    ],
+    "icon_path": "preview.png"
 }
